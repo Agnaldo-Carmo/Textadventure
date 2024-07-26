@@ -24,7 +24,7 @@ module.exports = (heroi) => {
     const respostas = ["A rua", "O relógio", "O alho"];
 
     //Sorteia uma chrada ara ser exibida
-    let sorteio = random(0, 2);
+    let sorteio = random(0, 3);
 
     console.log(charadas[sorteio]);
     console.log("");

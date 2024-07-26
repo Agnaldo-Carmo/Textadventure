@@ -31,9 +31,6 @@ function lutar(heroi) {
 
 }
  module.exports = (heroi) => {
-
-  
-
   console.log("Ao chegar na ultima sala você ouve um enorme rugido, parece ser um monstro gigante!");
   console.log("");
   console.log("Um ONI apareceu, ele quer te impedir de sair.")

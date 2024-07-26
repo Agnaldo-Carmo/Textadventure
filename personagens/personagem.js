@@ -7,9 +7,14 @@ class personagem{
 
     atacar(){
 
+        console.log("ataque");
+
     }
 
     defender(){
+
+        console.log("defende");
+
 
     }
 }

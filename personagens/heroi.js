@@ -14,7 +14,7 @@ class heroi extends personagem {
 
     atacar() {
         //Valor do ataque do heroi recebe um multiplicador somado a sua força
-        return random(1, 3) * this.forca;
+        return random(1, 5) * this.forca;
 
     }
 

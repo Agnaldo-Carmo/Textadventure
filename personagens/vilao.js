@@ -13,7 +13,7 @@ class vilao extends personagem {
     atacar() {
 
         //Valor do ataque do vilao recebe um multiplicador somado a sua força de ataque especial
-        return random(1, 3) * this.forcaSPatk;
+        return random(1, 5) * this.forcaSPatk;
 
     }
 
