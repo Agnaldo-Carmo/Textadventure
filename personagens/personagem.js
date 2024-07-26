@@ -1,17 +1,17 @@
-class personagem{
+class personagem {
 
-    constructor(vida){
+    constructor(vida) {
 
         this.vida = vida;
     }
 
-    atacar(){
+    atacar() {
 
         console.log("ataque");
 
     }
 
-    defender(){
+    defender() {
 
         console.log("defende");
 
